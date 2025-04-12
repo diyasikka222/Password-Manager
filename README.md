@@ -29,4 +29,4 @@ This is a simple and secure Password Manager built using Python and Tkinter for 
 ### Screenshot
 
 <img width="407" alt="Screenshot 2025-04-12 at 16 13 27" src="https://github.com/user-attachments/assets/181e72d2-557f-48a4-bc93-9de11e4c5d58" />
-<img width="407" alt="Screenshot 2025-04-12 at 16 16 33" src="https://github.com/user-attachments/assets/92ea7ac7-3230-4adb-9860-54d0771068e5" />
+<img width="407" alt="Screenshot 2025-04-12 at 16 22 54" src="https://github.com/user-attachments/assets/004b259f-3711-42a9-9a58-bb71f32d9c54" />
